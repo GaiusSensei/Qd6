@@ -6,7 +6,7 @@ There are two kinds of actions in Qd6: Battle Actions, which end your turn immed
 > The actions below are detailed for gamemaster's understanding. If you have new players during character creation, explain the gist of each action without going into details, unless asked otherwise.
 > 
 > Battle Actions: Attack an opponent, Reposition yourself, Defend your allies and Overwatch against enemy movement   
-> Free Actions: Use an Item, Focus to regain power, Reequip a new weapon and Use one your talents
+> Free Actions: Use an Item, Refocus to recover focus, Reequip a new weapon and Use one your talents
 
 ###Battle Actions
 
@@ -18,7 +18,7 @@ There are two kinds of actions in Qd6: Battle Actions, which end your turn immed
 - Reduce any damage dealt by the Armor stat.  
 
 **Ranged Attack**
-- Requirements: Opponent within sight, ranged weapon equipped, (ammo, if required, and minimum available power points, if required).
+- Requirements: Opponent within sight, ranged weapon equipped, (ammo, if required, and minimum available focus points, if required).
 - If the attacker has higher ranged skill than opponent, add a +2 **Skilled Blow** bonus to the roll
 - If the attacker succeeds, the attacker deals damage to the defender equal to their weapon strength.
 - If the attacker fails, the defender may Counterattack: If the defender has a melee weapon equipped (and ammo, if required), and the attacker is within their reach, they automatically deal damage to the attacker equal to their weapon strength.
@@ -32,7 +32,7 @@ There are two kinds of actions in Qd6: Battle Actions, which end your turn immed
 - Reduce any damage dealt by the Armor stat.
 
 **Ranged Overwatch**
-- Requirements: Ranged weapon equipped, (ammo, if required, and minimum available power points, if required)
+- Requirements: Ranged weapon equipped, (ammo, if required, and minimum available focus points, if required)
 - Do nothing this round.
 - If anyone within sight repositions until your next turn, you may make a Ranged Attack with a -2 **Trick Shot** penalty against them. If you hit, deal damage equal to your weapon damage and stop the defender from repositioning.
 - If the Ranged Attack misses, the defender cannot **Counterattack**, but proceeds with the reposition.
@@ -56,14 +56,14 @@ There are two kinds of actions in Qd6: Battle Actions, which end your turn immed
 - Do what the Item Description says.
 - If the Item has the Consumable Tag, reduce its quantity by 1.
 
-**Focus**
+**Refocus**
 - Requirements: Has not focused this round.
-- Roll 2d6, with any modifiers for focusing. If result is 7+, regain 1 Power Point.
+- Roll 2d6, with any modifiers for focusing. If result is 7+, regain 1 Focus Point.
 
 **Reequip**
 - Requirements: Has not reequipped this round.
 - Stash one or more your weapons and draw a new one. 
 
 **Use Talent**
-- Requirements: A non-passive talent  (ammo, if required, and minimum available power points, if required).
+- Requirements: A non-passive talent  (ammo, if required, and minimum available focus points, if required).
 - Do what the Talent Description says.

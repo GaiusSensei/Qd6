@@ -7,7 +7,7 @@ In Qd6, the player's characters (PCs) does not level up- instead they gain talen
 > The talents below are detailed for gamemaster's understanding. If you have new players during character creation, explain the gist of each talent without going into details, unless asked otherwise.
 >
 > Defensive Talents: Defender, who can cancel melee attacks, and Controller, who can cancel ranged attacks.  
-> Offensive Talents: Striker, who can take a penalty to hit for more damage, and Opportunist, who can hit opponents easier regarding of their skill.  
+> Offensive Talents: Striker, who can take a penalty to hit for more damage, and Opportunist, who can hit opponents easier regardless of their skill.  
 > Supportive Talents: Healer, who can replenish an allies' health if they are within reach, and Leader, who can let their allies reposition easier.  
 
 ###Rank 1 Talents

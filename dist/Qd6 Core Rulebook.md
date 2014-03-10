@@ -9,9 +9,9 @@ This game is a great introduction for new pen and paper players. All you need is
 3. A Game Master with a plan :)
 
 ###Character Creation
-We recommend that the GMs should explain the available actions in combat, as well as how conflicts are resolved, before starting to create the player's characters.  
+We recommend that the GMs should explain the available actions in combat, as well as how conflicts are resolved, before starting to create the player's characters.    
 
-1. Each player should mark the following statistics on their character sheet: Health Points: 10, Power Points: 10, Melee Skill: 5, Ranged Skill 5 and Armor: 0
+1. Each player should mark the following statistics on their character sheet: Health Points: 10, Focus Points: 10, Melee Skill: 5, Ranged Skill 5 and Armor: 0
 2. Each player should choose two starting Talents from the Chapter 2.
 3. Each player should choose a Weapon, an Armor, and either another Weapon, one Accessory or two Consumables. These are all listed on Chapter 3.
 4. Finally, each player should choose a name and a race (default: Human). These have no effects in-game.
@@ -24,7 +24,7 @@ There are two kinds of actions in Qd6: Battle Actions, which end your turn immed
 > The actions below are detailed for gamemaster's understanding. If you have new players during character creation, explain the gist of each action without going into details, unless asked otherwise.
 > 
 > Battle Actions: Attack an opponent, Reposition yourself, Defend your allies and Overwatch against enemy movement   
-> Free Actions: Use an Item, Focus to regain power, Reequip a new weapon and Use one your talents
+> Free Actions: Use an Item, Refocus to recover focus, Reequip a new weapon and Use one your talents
 
 ###Battle Actions
 
@@ -36,7 +36,7 @@ There are two kinds of actions in Qd6: Battle Actions, which end your turn immed
 - Reduce any damage dealt by the Armor stat.  
 
 **Ranged Attack**
-- Requirements: Opponent within sight, ranged weapon equipped, (ammo, if required, and minimum available power points, if required).
+- Requirements: Opponent within sight, ranged weapon equipped, (ammo, if required, and minimum available focus points, if required).
 - If the attacker has higher ranged skill than opponent, add a +2 **Skilled Blow** bonus to the roll
 - If the attacker succeeds, the attacker deals damage to the defender equal to their weapon strength.
 - If the attacker fails, the defender may Counterattack: If the defender has a melee weapon equipped (and ammo, if required), and the attacker is within their reach, they automatically deal damage to the attacker equal to their weapon strength.
@@ -50,7 +50,7 @@ There are two kinds of actions in Qd6: Battle Actions, which end your turn immed
 - Reduce any damage dealt by the Armor stat.
 
 **Ranged Overwatch**
-- Requirements: Ranged weapon equipped, (ammo, if required, and minimum available power points, if required)
+- Requirements: Ranged weapon equipped, (ammo, if required, and minimum available focus points, if required)
 - Do nothing this round.
 - If anyone within sight repositions until your next turn, you may make a Ranged Attack with a -2 **Trick Shot** penalty against them. If you hit, deal damage equal to your weapon damage and stop the defender from repositioning.
 - If the Ranged Attack misses, the defender cannot **Counterattack**, but proceeds with the reposition.
@@ -74,16 +74,16 @@ There are two kinds of actions in Qd6: Battle Actions, which end your turn immed
 - Do what the Item Description says.
 - If the Item has the Consumable Tag, reduce its quantity by 1.
 
-**Focus**
+**Refocus**
 - Requirements: Has not focused this round.
-- Roll 2d6, with any modifiers for focusing. If result is 7+, regain 1 Power Point.
+- Roll 2d6, with any modifiers for focusing. If result is 7+, regain 1 Focus Point.
 
 **Reequip**
 - Requirements: Has not reequipped this round.
 - Stash one or more your weapons and draw a new one. 
 
 **Use Talent**
-- Requirements: A non-passive talent  (ammo, if required, and minimum available power points, if required).
+- Requirements: A non-passive talent  (ammo, if required, and minimum available focus points, if required).
 - Do what the Talent Description says.
 
 ## Chapter 2
@@ -98,7 +98,7 @@ In Qd6, the player's characters (PCs) does not level up- instead they gain talen
 > Offensive Talents: Striker, who can take a penalty to hit for more damage, and Opportunist, who can hit opponents easier regarding of their skill.  
 > Supportive Talents: Healer, who can replenish an allies' health if they are within reach, and Leader, who can let their allies reposition easier.  
 
-###Rank 1 Talents  
+###Rank 1 Talents
 1. **Defender** (Once/Round) When another player within your reach (but including you) is attacked with a Melee Attack, you may resolve a Melee Attack against the opposing attacker. If you succeed, your attack deals 0 damage, and the opposing attacker deals 0 damage; if you fail, the opposing attack cannot Counterattack.  
 2. **Controller** (Once/Round) When any player within your sight (including yourself) is attacked with a Ranged Attack, and you can see whoever made the shot, you may resolve a Ranged Attack with a -2 **Trick Shot** penalty to hit against the opposing attacker. If you succeed, your attack deals 0 damage, and the opposing attacker deals 0 damage; if you fail, the opposing attack cannot Counterattack.  
 3. **Striker** (Once/Round) You may take a -2 **Trick Shot** penalty to hit on your Melee or Ranged Attack, and deal an extra 2 damage when you hit.  
