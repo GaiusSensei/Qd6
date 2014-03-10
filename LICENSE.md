@@ -1,0 +1,1 @@
+All Rights Reserved (c) Copyright, 2014, by Erik Gaius Capistrano 
