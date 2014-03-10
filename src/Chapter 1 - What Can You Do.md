@@ -25,14 +25,14 @@ There are two kinds of actions in Qd6: Battle Actions, which end your turn immed
 - Reduce any damage dealt by the Armor stat.
 
 **Melee Overwatch**
-- Requirements: Melee weapon equipped (ammo, if required.
+- Requirements: Melee weapon equipped (ammo, if required)
 - Do nothing this round.
 - If anyone within reach repositions until your next turn, you may make a Melee Attack against them. If you hit, deal damage equal to your weapon damage and stop the defender from repositioning. If you miss, the defender deals no damage.
 - If the Melee Attack misses, the defender cannot **Counterattack**, but proceeds with the reposition.
 - Reduce any damage dealt by the Armor stat.
 
 **Ranged Overwatch**
-- Requirements: Ranged weapon equipped, (ammo, if required, and minimum available power points, if required).
+- Requirements: Ranged weapon equipped, (ammo, if required, and minimum available power points, if required)
 - Do nothing this round.
 - If anyone within sight repositions until your next turn, you may make a Ranged Attack with a -2 **Trick Shot** penalty against them. If you hit, deal damage equal to your weapon damage and stop the defender from repositioning.
 - If the Ranged Attack misses, the defender cannot **Counterattack**, but proceeds with the reposition.

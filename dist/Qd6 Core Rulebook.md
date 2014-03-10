@@ -10,9 +10,8 @@ This game is a great introduction for new pen and paper players. All you need is
 
 ###Character Creation
 We recommend that the GMs should explain the available actions in combat, as well as how conflicts are resolved, before starting to create the player's characters.  
-1. Each player should mark the following statistics on their character sheet:
-- Health Points: 10; Power Points: 10
-- Melee Skill: 5, Ranged Skill 5, Armor: 0
+
+1. Each player should mark the following statistics on their character sheet: Health Points: 10, Power Points: 10, Melee Skill: 5, Ranged Skill 5 and Armor: 0
 2. Each player should choose two starting Talents from the Chapter 2.
 3. Each player should choose a Weapon, an Armor, and either another Weapon, one Accessory or two Consumables. These are all listed on Chapter 3.
 4. Finally, each player should choose a name and a race (default: Human). These have no effects in-game.
@@ -44,14 +43,14 @@ There are two kinds of actions in Qd6: Battle Actions, which end your turn immed
 - Reduce any damage dealt by the Armor stat.
 
 **Melee Overwatch**
-- Requirements: Melee weapon equipped (ammo, if required.
+- Requirements: Melee weapon equipped (ammo, if required)
 - Do nothing this round.
 - If anyone within reach repositions until your next turn, you may make a Melee Attack against them. If you hit, deal damage equal to your weapon damage and stop the defender from repositioning. If you miss, the defender deals no damage.
 - If the Melee Attack misses, the defender cannot **Counterattack**, but proceeds with the reposition.
 - Reduce any damage dealt by the Armor stat.
 
 **Ranged Overwatch**
-- Requirements: Ranged weapon equipped, (ammo, if required, and minimum available power points, if required).
+- Requirements: Ranged weapon equipped, (ammo, if required, and minimum available power points, if required)
 - Do nothing this round.
 - If anyone within sight repositions until your next turn, you may make a Ranged Attack with a -2 **Trick Shot** penalty against them. If you hit, deal damage equal to your weapon damage and stop the defender from repositioning.
 - If the Ranged Attack misses, the defender cannot **Counterattack**, but proceeds with the reposition.
@@ -99,15 +98,10 @@ In Qd6, the player's characters (PCs) does not level up- instead they gain talen
 > Offensive Talents: Striker, who can take a penalty to hit for more damage, and Opportunist, who can hit opponents easier regarding of their skill.  
 > Supportive Talents: Healer, who can replenish an allies' health if they are within reach, and Leader, who can let their allies reposition easier.  
 
-###Rank 1 Talents
-1. Defender (Once/Round) When another player within your reach (but including you) is attacked with a Melee Attack, you may resolve a Melee Attack against the opposing attacker. If you succeed, your attack deals 0 damage, and the opposing attacker deals 0 damage; if you fail, the opposing attack cannot Counterattack.
-
-2. Controller (Once/Round) When any player within your sight (including yourself) is attacked with a Ranged Attack, and you can see whoever made the shot, you may resolve a Ranged Attack with a -2 **Trick Shot** penalty to hit against the opposing attacker. If you succeed, your attack deals 0 damage, and the opposing attacker deals 0 damage; if you fail, the opposing attack cannot Counterattack.
-
-3. Striker (Once/Round) You may take a -2 **Trick Shot** penalty to hit on your Melee or Ranged Attack, and deal an extra 2 damage when you hit.
-
-4. Opportunist (Once/Round) When you attack, add a +2 **Skilled Blow** bonus to your dice roll. You can activate this free action before or after the roll.
-
-5. Leader (Passive) Any player within your reach (but not including you) may Reposition as a free action once per round.
-
-6. Healer (Once/Round) One player within reach (including yourself) of your choice may regain 2 Health Points.
+###Rank 1 Talents  
+1. **Defender** (Once/Round) When another player within your reach (but including you) is attacked with a Melee Attack, you may resolve a Melee Attack against the opposing attacker. If you succeed, your attack deals 0 damage, and the opposing attacker deals 0 damage; if you fail, the opposing attack cannot Counterattack.  
+2. **Controller** (Once/Round) When any player within your sight (including yourself) is attacked with a Ranged Attack, and you can see whoever made the shot, you may resolve a Ranged Attack with a -2 **Trick Shot** penalty to hit against the opposing attacker. If you succeed, your attack deals 0 damage, and the opposing attacker deals 0 damage; if you fail, the opposing attack cannot Counterattack.  
+3. **Striker** (Once/Round) You may take a -2 **Trick Shot** penalty to hit on your Melee or Ranged Attack, and deal an extra 2 damage when you hit.  
+4. **Opportunist** (Once/Round) When you attack, add a +2 **Skilled Blow** bonus to your dice roll. You can activate this free action before or after the roll.  
+5. **Leader** (Passive) Any player within your reach (but not including you) may Reposition as a free action once per round.  
+6. **Healer** (Once/Round) One player within reach (including yourself) of your choice may regain 2 Health Points.  
