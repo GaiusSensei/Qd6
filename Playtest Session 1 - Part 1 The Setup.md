@@ -112,7 +112,7 @@ GM: Alright, now that you all have talents and equipment, write the following to
 
 D: All of us have the same stats?
 
-GM: Yes, but different talents and equipment. Speaking of, if you have a Plate or Chain Armor write Armor: 1, if not, write Armor: 0.
+GM: Yes, but different talents and equipment. Speaking of, if you have a Plate or Chain Armor write Armor: 1, if not, write Armor: 0. B, you have a shield, so add 1 to your armor.
 
 B: What's the different armors for?
 
