@@ -57,8 +57,8 @@ There are two kinds of actions in Qd6: Battle Actions, which end your turn immed
 - If the Item has the Consumable Tag, reduce its quantity by 1.
 
 **Refocus**
-- Requirements: Has not focused this round.
-- Roll 2d6, with any modifiers for focusing. If result is 7+, regain 1 Focus Point.
+- Requirements: Has not refocused this round.
+- Roll 2d6, with any modifiers for refocusing. If result is 7+, regain 1 Focus Point.
 
 **Reequip**
 - Requirements: Has not reequipped this round.
@@ -67,3 +67,10 @@ There are two kinds of actions in Qd6: Battle Actions, which end your turn immed
 **Use Talent**
 - Requirements: A non-passive talent  (ammo, if required, and minimum available focus points, if required).
 - Do what the Talent Description says.
+
+### Resolving Conflict
+Sometimes, a conflict occurs between the players's characters and the characters that the GM controls (Monsters, etc.). The most common would be if an attack hit or not- since it won't be fair for the players if the monsters always hit, and vice versa. In order to resolve such conflicts, the Qd6 system uses the procedure below:
+
+1. Roll two sixed-sided dice, or a '2d6'. Add bonuses and subtract penalties to the result. Note that modifiers with the same name **does not stack**; always use the highest value for bonuses and lowest value for penalties.
+2. If the total is 7+, you succeed.
+3. A Natural 2 always fails, and a Natural 12 always succeeds, regardless of bonuses or penalties.

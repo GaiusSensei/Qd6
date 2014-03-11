@@ -1,7 +1,7 @@
 ## Chapter 2
 ### Who Can You Be? The Player's Starting Talents
 
-In Qd6, the player's characters (PCs) does not level up- instead they gain talents. During character creation, each player chooses two talents from the list below to start with, and as they progress through the game, they gain more talents.
+In Qd6, the player's characters (PCs) does not level up- instead they gain talents. During character creation, each player chooses two different talents from the list below to start with, and as they progress through the game, they gain more talents.
 
 > **GM's Note**   
 > The talents below are detailed for gamemaster's understanding. If you have new players during character creation, explain the gist of each talent without going into details, unless asked otherwise.
